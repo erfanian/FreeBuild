@@ -2,7 +2,7 @@
 
 ## License
 
-FreeBuild is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0/). You are free to modify and share the work as long as you attribute work to the author(s) and share your subsequent alterations under the same or similar license.
+FreeBuild is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0/). You are free to modify and share the work as long as you attribute the work to the contributor(s) and share your subsequent alterations under the same or similar license.
 
 ## About
 
@@ -14,7 +14,7 @@ By using and or printing these blocks you release the contributor(s) of any liab
 
 # FreeBuild Development
 
-If you want to get started in FreeBuild development, download [FreeCAD](http://free-cad.sourceforge.net/). Right now each block folder contains a picture, FreeCAD file formate, and standard mesh .obj.
+If you want to get started in FreeBuild development, download [FreeCAD](http://free-cad.sourceforge.net/). Right now each block folder contains a picture, FreeCAD file format, and standard mesh .obj format.
 
 ## FreeBuild Block Specs
 
