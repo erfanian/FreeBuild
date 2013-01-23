@@ -18,6 +18,8 @@ If you want to get started in FreeBuild development, download [FreeCAD](http://f
 
 ## FreeBuild Block Specs
 
+The team is currently working on drafting a v 0.1 block and connector specifications and design. 
+
 # FreeBuild Roadmap
 
 ## v. 0.1
