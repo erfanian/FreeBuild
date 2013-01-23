@@ -24,7 +24,7 @@ If you want to get started in FreeBuild development, download [FreeCAD](http://f
 
 * Define standard block size increments.
 * Define standard block connector type.
-* Create basic blocks.
+* Create basic blocks
   * 1x1 block
   * 2x1 block
   * 4x4 block
